@@ -21,7 +21,7 @@ O projeto está organizado em três classes principais:
 
 - **Conta.java**  
   Representa a conta bancária. Possui atributos como saldo, tipo de conta, número e status.  
-  Métodos principais: `abrirConta`, `fecharConta`, `depositar`, `sacar`, `getSaldoConta`.
+  Métodos principais: `abrirConta`, `fecharConta`, `depositar`, `sacar`, `SaldoConta`.
 
 - **SistemaBancario.java**  
   Classe principal com o método `main`. Contém o menu interativo para o usuário escolher operações.
